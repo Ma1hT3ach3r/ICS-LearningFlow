@@ -7,7 +7,7 @@ This will help others get to know who you are.
 
 In your log please follow the structure every day of: 3 sections
 
-What Went wWll (WWW):
+What Went Well (WWW):
 
 Would Be-Better If(WBI):
 
